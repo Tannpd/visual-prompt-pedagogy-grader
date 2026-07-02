@@ -154,7 +154,7 @@ image_prompt: "" (empty string)
 
 ## Deployment and Test Evidence
 
-- **Contract Address:** `[YOUR_DEPLOYED_CONTRACT_ADDRESS_HERE]`
+- **Contract Address:** `0x75874e996191B566b543cb9878EfC2EbfC03fA5e`
 - **Network:** `studionet`
 
 ### Worked Example
